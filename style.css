@@ -1,0 +1,41 @@
+body{
+    background-color: beige;
+}
+.carback{
+    margin: auto;
+    width: 600px;
+    height: 700px;
+    background-color: darkgray;
+    position:absolute;
+    left: 30%;
+    top: 5%;
+    border: 5px solid rgb(0, 0, 0);
+    display: grid;
+    
+    
+}
+.textarea{
+    width: 550px;
+    height: 200px;
+    position: absolute;
+    left: 31%;
+    top: 7%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    padding: 10px;
+    border-radius: 5px;
+    border: px solid rgb(0, 0, 0);
+    overflow: hidden;
+    resize: none;
+    
+}
+.submit{
+    width: 120px;
+    height: 120px;
+    background-color: rgb(188, 226, 226);
+    position: absolute;
+    left: 31%;
+    top: 37%;
+    font-size: 50px;
+    border: 2px solid rgb(0, 0, 0)
+}
